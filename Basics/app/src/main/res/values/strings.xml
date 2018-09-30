@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Layout &amp; Intents</string>
+    <string name="enterName">Enter name here...</string>
+    <string name="sendButton">SEND</string>
+</resources>
